@@ -1,5 +1,5 @@
 <h1>Hello, I'm WilliamNT</h1>
-<h3>Hobby webdev. Visit my website or take a look at my repositories to get to know me more.</h3>
+<h3>Hobby webdev. Visit <a href="https://skiby.net">my website</a> or take a look at my repositories to get to know me more.</h3>
 
 <h3>My trophies:</h3>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=williamnt" alt="williamnt" /></a> </p>
