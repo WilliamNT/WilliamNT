@@ -3,4 +3,4 @@
 
 ---
 
-<p>Some projects are also hosted <a href="https://git.skiby.net/explore">here</a>.</p>
+<p>Some projects are also hosted <a href="https://gitlab.skiby.net/explore/">here</a>.</p>
